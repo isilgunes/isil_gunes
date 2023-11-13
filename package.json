@@ -1,0 +1,27 @@
+{
+  "name": "isil-gunes",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ışıl": "echo 'benim adım ışıl'",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "ışıl güneş",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isilgunes/isil_gunes.git"
+  }
+}
